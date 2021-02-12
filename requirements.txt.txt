@@ -1,0 +1,4 @@
+requests
+validators
+telegram
+python-telegram-bot
